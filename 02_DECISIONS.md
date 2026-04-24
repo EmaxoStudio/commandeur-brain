@@ -1,17 +1,20 @@
 # 02 DECISIONS
 
-## Strategie & Struktur
-### Getrenntes Brain-Repo
-- Entscheidung: Eigenes Repo `commandeur-brain`.
-- Zweck: Brain als strategischer Spiegel / Projektcockpit.
-- Grund: Code-Repo bleibt die einzige technische Wahrheit.
+## Architektur
+- **Getrenntes Brain-Repo**: Ein dediziertes Repository (`commandeur-brain`) statt eines gemischten Vaults, um Strategie und Technik sauber zu trennen.
+- **Code-Repo = Technische Wahrheit**: Das Haupt-Repo bleibt die einzige Quelle für den funktionalen Code.
+- **Brain-Repo = Strategischer Spiegel / Projektcockpit**: Dokumentation und Status-Sync spiegeln die strategische Ebene.
 
-## Methodik
-### Tool-Routing
-- Entscheidung: Codex zuerst, Gemini für Review/Diff, Claude nur für schwere Fälle.
-- Zweck: Effizienz und Kostenoptimierung bei maximaler Qualität.
+## Workflow & Tools
+- **Tool-Routing**:
+  - `Codex`: First Choice für Standard-Bau-Aufgaben.
+  - `Gemini`: Review, Code-Diffs und Dokumentation.
+  - `Claude`: Ausschließlich für komplexe Architektur- oder Logik-Herausforderungen.
 
-## Priorisierung
-### Paritäts-Stufen
-- Reihenfolge: Visuelle Parität > Text-Parität > Effekt-Parität.
-- Grund: Schnelle optische Bestätigung durch den Kunden hat Vorrang.
+## Paritäts-Priorisierung
+- **Visuelle Parität** (Struktur/Layout) vor **Text-Parität**.
+- **Text-Parität** vor **Effekt-Parität** (Animationen/Interaktionen).
+
+## Legal-Seiten
+- Bewusst schlichtes Design: Header -> Legal Heading -> Content -> Footer.
+- Keine Marketing-Elemente (Hero/CTA) auf Impressum/Datenschutz.

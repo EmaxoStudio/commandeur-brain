@@ -1,16 +1,16 @@
 # 05 HANDOFFS
 
-## 2026-04-24 (Status Sync)
-- BLOCK 3 lokale Preview durch Master bestätigt.
-- Brain-Vault mit Projektstand synchronisiert.
-- Obsidian & Auto-Pull verifiziert.
+## 2026-04-24 (Status Sync & Regression Pass)
+- **Status**: Stabil (Phase 1 Parität erreicht).
+- **Abgeschlossen**: BLOCK 1-4 & GG-003-REVIEW.
+- **Aktueller Fokus**: Visuelle Parität & Effekte.
 
-## Aktuelle Übergabe-Logik (Tool-Routing)
-1. Codex: Erledigt Standard-Implementationen.
-2. Gemini: Führt Reviews und Code-Diffs durch.
-3. Claude: Übernimmt komplexe Architektur- oder Logik-Probleme.
+## Übergabe-Logik (Tool-Routing)
+1. **Codex**: Standard-Implementationen & Bau (Fokus: visuelle Details).
+2. **Gemini**: Reviews, Code-Diffs & Brain-Sync.
+3. **Claude**: Ausschließlich schwere Fälle / Architektur.
 
 ## Historie
-- BLOCK 1 & 2: Freigegeben (Statisches Frontend).
-- docs/ ins Website-Repo gespiegelt.
-- tmux-/Widget-Zugriff für LLM-Sessions aktiv.
+- BLOCK 1-3: Statisches Frontend & Lokale Vorschau freigegeben.
+- BLOCK 4: Global Header/Footer Sync & Legal-Check erfolgreich.
+- GG-003: Gesamt-Regression bestanden.

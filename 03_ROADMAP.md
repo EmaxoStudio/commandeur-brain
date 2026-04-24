@@ -1,19 +1,16 @@
 # 03 ROADMAP
 
-## Erledigt (Phase 1 Start)
-- statisches Grundgerüst steht
-- BLOCK 1 & 2 freigegeben
-- BLOCK 3 lokale Preview bestätigt
-- Brain-Repo & Obsidian-Setup fertig
+## ABGESCHLOSSEN
+- **BLOCK 1**: Statische Website-Basis (Done)
+- **BLOCK 2**: Formular-UX & Bugfixes (Done)
+- **BLOCK 3**: Lokale Preview & Handy-Vorschau (Done)
+- **BLOCK 4**: Global Header/Footer Sync & Legal Review (Done)
+- **PHASE 1 (Stability)**: Gesamt-Regression (PASS / GG-003-REVIEW)
 
-## Jetzt (Fokus: Parität)
-- Visuelle Parität zur Originalseite maximieren
-- CSS-Feinschliff und Layout-Treue
+## NÄCHSTE SCHRITTE (Priorität 1)
+- **Visueller Vergleich / Effekt-Parität**: Letzte Detail-Checkups und Interaktionen.
+- **Text-Parität Finalisierung**: Vollständiger Abgleich der textlichen Inhalte.
 
-## Als Nächstes
-- Text-Parität (Inhalte angleichen)
-- Effekt-Parität (Interaktionen/Animationen)
-
-## Später
-- Deployment & Live-Gang
-- Vorbereitung Phase 2
+## OPTIONAL / SPÄTER
+- **Kunden-Demo / Deployment-Vorbereitung**: Finale Abnahme-Präsentation.
+- **Echte Assets/Bilder**: Austausch von Platzhaltern durch Kunden-Material (Bilder/Grafiken).
