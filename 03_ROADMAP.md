@@ -1,23 +1,19 @@
 # 03 ROADMAP
 
-## Jetzt
-- Brain-Repo minimal aufsetzen
-- Projektstatus sauber spiegeln
-- visuelle Parität der Website erhöhen
+## Erledigt (Phase 1 Start)
+- statisches Grundgerüst steht
+- BLOCK 1 & 2 freigegeben
+- BLOCK 3 lokale Preview bestätigt
+- Brain-Repo & Obsidian-Setup fertig
+
+## Jetzt (Fokus: Parität)
+- Visuelle Parität zur Originalseite maximieren
+- CSS-Feinschliff und Layout-Treue
 
 ## Als Nächstes
-- Homepage optisch näher ans Original bringen
-- dann Unterseiten angleichen
-- dann Texte angleichen
+- Text-Parität (Inhalte angleichen)
+- Effekt-Parität (Interaktionen/Animationen)
 
 ## Später
-- Effekt-Parität
-- sauberer externer Demo-Zugriff
-- Deployment-Vorbereitung
-- Phase-2-Überlegungen getrennt
-
-## Nicht jetzt
-- kein CMS
-- kein Admin-System
-- kein produktives Formular-Backend
-- kein Framework-Umbau
+- Deployment & Live-Gang
+- Vorbereitung Phase 2

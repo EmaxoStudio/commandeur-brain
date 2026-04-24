@@ -1,32 +1,17 @@
 # 02 DECISIONS
 
-## 2026-04-23
+## Strategie & Struktur
 ### Getrenntes Brain-Repo
-Entscheidung:
-- eigenes Repo `commandeur-brain`
+- Entscheidung: Eigenes Repo `commandeur-brain`.
+- Zweck: Brain als strategischer Spiegel / Projektcockpit.
+- Grund: Code-Repo bleibt die einzige technische Wahrheit.
 
-Begründung:
-- keine Vermischung mit anderem Projekt
-- Code-Repo bleibt technische Wahrheit
-- Brain bleibt Master-/Status-/Handoff-Spiegel
-
-## 2026-04-23
+## Methodik
 ### Tool-Routing
-Entscheidung:
-- Codex zuerst
-- Gemini für Review / Diff
-- Claude nur für schwere Fälle
+- Entscheidung: Codex zuerst, Gemini für Review/Diff, Claude nur für schwere Fälle.
+- Zweck: Effizienz und Kostenoptimierung bei maximaler Qualität.
 
-Begründung:
-- Tokens sparen
-- Standardarbeit beschleunigen
-- schwere Fälle getrennt behandeln
-
-## 2026-04-23
-### Build-Reihenfolge
-Entscheidung:
-- visuelle Parität vor Text-Parität
-- Text-Parität vor Effekt-Parität
-
-Begründung:
-- Kunde will zuerst, dass es wie das Original aussieht
+## Priorisierung
+### Paritäts-Stufen
+- Reihenfolge: Visuelle Parität > Text-Parität > Effekt-Parität.
+- Grund: Schnelle optische Bestätigung durch den Kunden hat Vorrang.

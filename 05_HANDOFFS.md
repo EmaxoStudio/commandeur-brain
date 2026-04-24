@@ -1,20 +1,16 @@
 # 05 HANDOFFS
 
-## 2026-04-23
-- Master → Claude: BLOCK 1 statische Basis
-- QA → PASS MIT MÄNGELN
-- Claude → Legal-Fix
-- QA → PASS
-- Claude → BLOCK 2 UX-/UI-Feinschliff
-- QA → PASS
+## 2026-04-24 (Status Sync)
+- BLOCK 3 lokale Preview durch Master bestätigt.
+- Brain-Vault mit Projektstand synchronisiert.
+- Obsidian & Auto-Pull verifiziert.
 
-## 2026-04-23
-- docs/ aus Projektwissen ins Website-Repo gespiegelt
-- lokale Preview bestätigt
-- tmux-/Widget-Setup für LLM-Sessions vorbereitet
+## Aktuelle Übergabe-Logik (Tool-Routing)
+1. Codex: Erledigt Standard-Implementationen.
+2. Gemini: Führt Reviews und Code-Diffs durch.
+3. Claude: Übernimmt komplexe Architektur- oder Logik-Probleme.
 
-## Aktuelle Übergabe-Logik
-- Master entscheidet
-- Codex baut Standardarbeit
-- Gemini prüft / vergleicht
-- Claude nur bei schweren Fällen
+## Historie
+- BLOCK 1 & 2: Freigegeben (Statisches Frontend).
+- docs/ ins Website-Repo gespiegelt.
+- tmux-/Widget-Zugriff für LLM-Sessions aktiv.

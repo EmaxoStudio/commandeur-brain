@@ -7,22 +7,27 @@ Commandeuer Website Rebuild
 - lokal: /home/zebra/projects/commandeur
 - GitHub: https://github.com/EmaxoStudio/commandeur-website
 
+## Brain-Repo
+- lokal: /home/zebra/projects/commandeur-brain
+- Status: angelegt und gepusht
+
 ## Aktueller Stand
 - Phase 1 = öffentliche Website
 - statischer Frontend-Stand aufgebaut
 - BLOCK 1 freigegeben
 - BLOCK 2 freigegeben
-- lokale Preview getestet
-- docs/ liegt im Website-Repo
-- tmux-/Widget-Zugriffe für LLM-Sessions eingerichtet
+- BLOCK 3 lokale Preview bestätigt
+- docs/ wurde ins Website-Repo gespiegelt
+- Obsidian-Vault läuft
+- Auto Pull läuft
+- tmux-/Widget-Zugriffe für LLM-Sessions sind eingerichtet
 
 ## Technischer Rahmen
 - HTML / CSS / JS only
-- kein Framework
-- kein CMS
-- kein echtes Backend in Phase 1
+- kein Framework, kein CMS
+- Tool-Routing: Codex (Work) / Gemini (Review) / Claude (Heavy)
 
-## Nächster sinnvoller Schritt
+## Nächster Fokus
 - visuelle Parität zur Originalseite erhöhen
 - danach Text-Parität
 - danach Effekt-Parität
