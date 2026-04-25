@@ -8,6 +8,7 @@
 - **PHASE 1 (Stability)**: Gesamt-Regression (PASS / GG-003-REVIEW)
 - **PHASE 2 (Parity)**: Asset-Integration & Frontend-Feinschliff (Done / GG-006, GG-007)
 - **DEMO READINESS**: Finaler Demo-Check (PASS / GG-008-REVIEW)
+- **FIDELITY PASS**: Original-Fidelity-Pass & Review (PASS / GG-010-REVIEW)
 
 ## NÄCHSTE SCHRITTE (Priorität 1)
 - **Kundendemo & Feedback**: Präsentation des Stands und Einholen von Korrekturwünschen.
