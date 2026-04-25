@@ -8,11 +8,11 @@
 - **PHASE 1 (Stability)**: Gesamt-Regression (PASS / GG-003-REVIEW)
 - **PHASE 2 (Parity)**: Asset-Integration & Frontend-Feinschliff (Done / GG-006, GG-007)
 - **DEMO READINESS**: Finaler Demo-Check (PASS / GG-008-REVIEW)
-- **FIDELITY PASS**: Original-Fidelity-Pass & Review (PASS / GG-010-REVIEW)
+- **FIDELITY PASS**: Original-Fidelity-Build & Review (PASS / GG-014-REVIEW)
 
 ## NÄCHSTE SCHRITTE (Priorität 1)
 - **Kundendemo & Feedback**: Präsentation des Stands und Einholen von Korrekturwünschen.
-- **Feedback-Fixrunde**: Umsetzung eventueller Kundenwünsche aus der Demo.
+- **Feedback-Fixrunde**: Gezielte Umsetzung eventueller Kundenwünsche aus der Demo.
 
 ## PHASE 3 (Livegang-Vorbereitung)
 - **Asset-Rechte**: Finale Bestätigung der Nutzungsrechte für Logo/Bilder.

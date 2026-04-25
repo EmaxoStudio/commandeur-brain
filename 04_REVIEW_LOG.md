@@ -44,8 +44,15 @@
 - Website ist technisch und visuell vollständig für Kundendemo.
 - Keine Blocker, alle Paritätsziele erreicht.
 
-## GG-010-REVIEW
-- Original-Fidelity-Pass (PASS)
-- Visuelle und funktionale Übereinstimmung mit dem Original-Design verifiziert.
-- Website ist in exzellentem Zustand für Kundendemo.
-- Keine technischen oder visuellen Blocker.
+## GG-012-REVIEW
+- Light-/Original-Reset (PASS)
+- Reduktion auf Kern-Stilistik und Vorbereitung für Fidelity-Build.
+
+## GG-013-REVIEW
+- Cross-Browser / Mobile / Preview (PASS)
+- Bestätigung der Demo-Reife auf verschiedenen Geräten.
+
+## GG-014-REVIEW
+- Claude Original-Fidelity-Build (PASS)
+- Header mit Kontakt-Icons, Hero-Uppercase-Title und einspaltige Leistungen erfolgreich geprüft.
+- Website ist sichtbar näher am Original.
