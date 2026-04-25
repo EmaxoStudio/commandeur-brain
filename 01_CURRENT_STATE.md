@@ -3,12 +3,12 @@
 ## Projekt
 Commandeuer Website Rebuild
 
-## Status: STABIL (Phase 1 Paritätsstand)
-- Statischer Frontend-Stand vollständig aufgebaut.
-- BLOCK 1, 2 und 3 freigegeben und verifiziert.
-- Globaler Header/Footer Sync erfolgreich umgesetzt.
-- Legal-Seiten (Impressum/Datenschutz) geprüft und PASS.
-- Gesamt-Regression (GG-003-REVIEW) erfolgreich abgeschlossen.
+## Status: DEMO BEREIT (Phase 1 Parität vollständig)
+- Statischer Frontend-Stand vollständig aufgebaut und visuell verifiziert.
+- Asset-Integration (Logo, Portrait, Icons) erfolgreich abgeschlossen (GG-006).
+- Finaler Frontend-Feinschliff und Hover-Effekte umgesetzt (GG-007).
+- Demo-Check (GG-008) erfolgreich: Website ist bereit für Kundenvorführung.
+- Keine technischen Blocker für die Demo vorhanden.
 
 ## Repositories
 - Code-Repo: `/home/zebra/projects/commandeur` (Technische Wahrheit)
@@ -25,6 +25,5 @@ Commandeuer Website Rebuild
 - **Claude**: Nur schwere Fälle / Architektur (Heavy).
 
 ## Nächster Fokus
-- Erhöhung der visuellen Parität (Details & Effekte).
-- Danach Text-Parität.
-- Danach Effekt-Parität.
+- Kundendemo durchführen und Feedback einholen.
+- Vorbereitung der Livegang-Entscheidungen (Asset-Rechte, Legal-Check, Formular-Backend).

@@ -28,3 +28,18 @@
 - Navigations-Check (PASS)
 - Mobile-Menü & Formular-Handling (PASS)
 - Globaler Sync-Check (PASS)
+
+## GG-006-REVIEW
+- Asset-Integration (PASS)
+- Logo, Brand-Mark, Portrait und Icons korrekt eingebunden.
+- Relative Pfade für alle Seiten verifiziert.
+
+## GG-007-REVIEW
+- Frontend-Feinschliff (PASS)
+- Formular-Success-State optisch aufgewertet.
+- Dezente Hover-Effekte ohne Regressionen ergänzt.
+
+## GG-008-REVIEW
+- Demo-Check (DEMO BEREIT)
+- Website ist technisch und visuell vollständig für Kundendemo.
+- Keine Blocker, alle Paritätsziele erreicht.
