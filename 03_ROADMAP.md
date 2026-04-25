@@ -8,10 +8,11 @@
 - **PHASE 1 (Stability)**: Gesamt-Regression (PASS / GG-003-REVIEW)
 - **PHASE 2 (Fidelity)**: Asset-Integration & Frontend-Korrektur (Done / GG-016-REVIEW)
 - **VIDEO FIDELITY**: Video-basierte Detail-Parität (Done / GG-018-REVIEW)
-- **DEMO READINESS**: Finaler Demo-Check & Video-Abgleich (PASS / GG-018-REVIEW)
+- **CONTENT ALIGNMENT**: Originaltexte übernommen (Done / GG-021-REVIEW)
+- **DEMO READINESS**: Finaler Demo-Check & Inhalts-Abgleich (PASS / GG-021-REVIEW)
 
 ## NÄCHSTE SCHRITTE (Priorität 1)
-- **Kundendemo & Feedback**: Präsentation des Stands (Dark/Blue + Video-Details) und Einholen von Korrekturwünschen.
+- **Visueller Abgleich / Kundendemo**: Letzte Abnahme der Text- und Bildwelten.
 - **Feedback-Fixrunde**: Gezielte Umsetzung eventueller Kundenwünsche aus der Demo.
 
 ## PHASE 3 (Livegang-Vorbereitung)

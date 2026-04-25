@@ -1,17 +1,19 @@
 # 05 HANDOFFS
 
+## 2026-04-25 (Post GG-021 Content Alignment Pass)
+- **Status**: DEMO BEREIT (Inhaltlich & Visuell vollständig).
+- **Update**: GG-021 erfolgreich abgeschlossen. Alle Texte entsprechen nun der Original-Referenz.
+- **Kontext**: Höchste inhaltliche Parität erreicht. Website ist bereit für finalen visuellen Abgleich oder Kundendemo.
+- **Hinweise**:
+  - Datenschutz-Checkbox und Formular-Erfolgsmeldung bleiben statisch (bewusste Entscheidung).
+- **Nächste Schritte**:
+  - Visueller Live-Abgleich / Kundendemo.
+  - Klärung der Asset-Rechte für finale Porträtfotos.
+  - Finaler Legal-Check durch Kunden.
+
 ## 2026-04-25 (Post GG-018 Video Fidelity Pass)
 - **Status**: DEMO BEREIT (Video-Fidelity vollständig).
-- **Update**: GG-018 erfolgreich abgeschlossen. Die Website enthält nun alle markanten visuellen Merkmale des Original-Videos (Polygon-Hero, dunkle Verläufe, Teal-Highlights).
-- **Kontext**: Höchste Parität zum Original-Design erreicht. Layout-Struktur und interaktive Details (Hover-Glow) sind verifiziert.
-- **Nächste Schritte**:
-  - Kundendemo durchführen.
-  - Finale Entscheidung über E-Mail-Formular vs. Backend.
-  - Klärung der Asset-Rechte für finale Porträtfotos.
-
-## 2026-04-25 (Post GG-016 Dark/Blue Correction Sync)
-- **Status**: DEMO BEREIT (Korrigierte Originalrichtung).
-- **Update**: GG-016 erfolgreich abgeschlossen.
+- **Update**: GG-018 erfolgreich abgeschlossen.
 
 ## Übergabe-Logik (Tool-Routing)
 1. **Codex**: Standard-Implementationen & Bau.
@@ -22,4 +24,5 @@
 - BLOCK 1-4: Basis-Struktur & Regression Pass.
 - GG-006-008: Asset-Integration & Demo-Readiness.
 - GG-012-016: Pivot von Light-Reset zurück zu Dark-Blue Original.
-- GG-018: Video-basierte Fidelity (Polygons, Gradients, Effects).
+- GG-018: Video-basierte Fidelity.
+- GG-021: Finaler Text-Abgleich (Original-Content).

@@ -3,12 +3,12 @@
 ## Projekt
 Commandeuer Website Rebuild
 
-## Status: DEMO BEREIT (Video-Fidelity vollständig)
+## Status: DEMO BEREIT (Text-Parität vollständig)
 - Statischer Frontend-Stand vollständig aufgebaut und visuell verifiziert.
-- **Video-Fidelity abgeschlossen (GG-018)**: Markante Original-Details (Hero-Polygon, Corporate-Gradients, Teal-Hover-Glow) erfolgreich integriert.
+- **Text-Parität abgeschlossen (GG-021)**: Alle Originaltexte aus der Referenz (docs/original-content.md) wurden in die Website übernommen.
+- **Video-Fidelity (GG-018)**: Markante Original-Details (Hero-Polygon, Corporate-Gradients, Teal-Hover-Glow) erfolgreich integriert.
 - Asset-Integration (Logo, Portrait, Icons) erfolgreich abgeschlossen.
-- Original-Fidelity-Build (GG-018) mit PASS reviewed.
-- Website ist nun in Layout und Effekten (Gradients, Clip-Paths) exakt am Original-Video ausgerichtet.
+- Website ist nun sowohl visuell (Layout/Effekte) als auch inhaltlich (Texte) exakt am Original ausgerichtet.
 - Keine technischen oder visuellen Demo-Blocker vorhanden.
 
 ## Repositories
@@ -26,5 +26,5 @@ Commandeuer Website Rebuild
 - **Claude**: Nur schwere Fälle / Architektur (Heavy).
 
 ## Nächster Fokus
-- Kundendemo durchführen und visuellen Abgleich mit dem Kunden finalisieren.
+- Visueller Live-/Screenshot-Abgleich oder Kundendemo durchführen.
 - Vorbereitung der Livegang-Entscheidungen (Asset-Rechte, Legal-Check, Formular-Backend).

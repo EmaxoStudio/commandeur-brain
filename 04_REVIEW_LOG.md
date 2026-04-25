@@ -12,6 +12,9 @@
 ## GG-018-REVIEW (Video-Fidelity)
 - Video-basierte Original-Details erfolgreich integriert (PASS).
 - Hero-Polygon (Clip-Path), Corporate-Gradients (Werte, Closing) verifiziert.
-- Prozessnummern auf dunklem Grund und Teal-Hover-Glow (Homepage-Cards) umgesetzt.
-- Statement-Section klarer gegliedert.
-- Keine Regressionen auf Unterseiten oder Mobile.
+
+## GG-021-REVIEW (Content-Alignment)
+- Vollständige Text-Parität mit docs/original-content.md verifiziert (PASS).
+- H1, Taglines, Einleitungstexte und Service-Beschreibungen korrekt übernommen.
+- Keine Layout-Regressionen durch veränderte Textlängen.
+- Formular bleibt bewusst statisch; Datenschutz-Checkbox unverändert.
