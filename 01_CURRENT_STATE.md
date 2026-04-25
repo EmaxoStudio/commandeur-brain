@@ -3,12 +3,12 @@
 ## Projekt
 Commandeuer Website Rebuild
 
-## Status: DEMO BEREIT (Original-Richtung korrigiert)
+## Status: DEMO BEREIT (Video-Fidelity vollständig)
 - Statischer Frontend-Stand vollständig aufgebaut und visuell verifiziert.
-- **Korrektur abgeschlossen (GG-016)**: Website wurde erfolgreich auf die dunkle/blaue Original-Richtung (Navy, Teal-Akzente, weiße Typo) zurückgeführt.
+- **Video-Fidelity abgeschlossen (GG-018)**: Markante Original-Details (Hero-Polygon, Corporate-Gradients, Teal-Hover-Glow) erfolgreich integriert.
 - Asset-Integration (Logo, Portrait, Icons) erfolgreich abgeschlossen.
-- Original-Fidelity-Build (GG-016) mit PASS reviewed.
-- Website ist nun exakt in der vom Nutzer im Video gezeigten Stilistik demo-bereit.
+- Original-Fidelity-Build (GG-018) mit PASS reviewed.
+- Website ist nun in Layout und Effekten (Gradients, Clip-Paths) exakt am Original-Video ausgerichtet.
 - Keine technischen oder visuellen Demo-Blocker vorhanden.
 
 ## Repositories

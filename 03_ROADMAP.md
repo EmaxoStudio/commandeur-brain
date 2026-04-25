@@ -7,10 +7,11 @@
 - **BLOCK 4**: Global Header/Footer Sync & Legal Review (Done)
 - **PHASE 1 (Stability)**: Gesamt-Regression (PASS / GG-003-REVIEW)
 - **PHASE 2 (Fidelity)**: Asset-Integration & Frontend-Korrektur (Done / GG-016-REVIEW)
-- **DEMO READINESS**: Finaler Demo-Check & Korrektur Farbschema (PASS / GG-016-REVIEW)
+- **VIDEO FIDELITY**: Video-basierte Detail-Parität (Done / GG-018-REVIEW)
+- **DEMO READINESS**: Finaler Demo-Check & Video-Abgleich (PASS / GG-018-REVIEW)
 
 ## NÄCHSTE SCHRITTE (Priorität 1)
-- **Kundendemo & Feedback**: Präsentation des Stands (Dark/Blue) und Einholen von Korrekturwünschen.
+- **Kundendemo & Feedback**: Präsentation des Stands (Dark/Blue + Video-Details) und Einholen von Korrekturwünschen.
 - **Feedback-Fixrunde**: Gezielte Umsetzung eventueller Kundenwünsche aus der Demo.
 
 ## PHASE 3 (Livegang-Vorbereitung)
