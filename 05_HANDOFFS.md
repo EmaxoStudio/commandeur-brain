@@ -1,21 +1,17 @@
 # 05 HANDOFFS
 
-## 2026-04-25 (Post GG-014 Original-Fidelity Review)
-- **Status**: DEMO BEREIT (Optimiert).
-- **Update**: GG-014 Original-Fidelity-Build erfolgreich abgeschlossen und verifiziert (GG-014-REVIEW: PASS).
-- **Kontext**: Website ist nun visuell sehr nah am Original (Header-Icons, Hero-Stil, Leistungen-Layout).
-- **Hinweise**: 
-  - Inline-SVGs im Header können später vereinheitlicht werden.
-  - Mobile-Kontaktdaten bieten Potenzial für optische Verfeinerung.
+## 2026-04-25 (Post GG-016 Dark/Blue Correction Sync)
+- **Status**: DEMO BEREIT (Korrigierte Originalrichtung).
+- **Update**: GG-016 erfolgreich abgeschlossen. Die Website wurde vom fälschlichen Light-Reset zurück auf die dunkle/blaue Corporate-Richtung korrigiert.
+- **Kontext**: Visueller Stand entspricht nun dem Original-Video (Dunkles Navy, Teal-Akzente). Alle Seiten (Home, Über uns, Leistungen etc.) sind konsistent und lesbar.
 - **Nächste Schritte**:
-  - Kundendemo durchführen und Feedback einholen.
-  - Gezielte Feedback-Fixrunde nach der Demo.
-  - Vorbereitung der Livegang-Vorbereitung (separat).
+  - Kundendemo durchführen.
+  - Kurze Sichtprüfung Portrait im dunklen Farbschema (Glow/Gradient) vor Präsentation.
+  - Finale Bild-Assets und Texte durch Kunde bestätigen lassen.
 
-## 2026-04-24 (Post-Fidelity-Pass Sync)
-- **Status**: DEMO BEREIT (Exzellent).
-- **Update**: GG-010 Original-Fidelity-Pass erfolgreich abgeschlossen.
-- **Kontext**: Visueller Stand ist finalisiert und für Kundenvorführung optimiert. Keine technischen oder visuellen Blocker.
+## 2026-04-25 (Post GG-014 Original-Fidelity Review)
+- **Update**: GG-014 Original-Fidelity-Build abgeschlossen. 
+- *Achtung*: Stand wurde danach in GG-016 korrigiert, da Farbschema zu hell war.
 
 ## Übergabe-Logik (Tool-Routing)
 1. **Codex**: Standard-Implementationen & Bau.
@@ -25,4 +21,4 @@
 ## Historie
 - BLOCK 1-4: Basis-Struktur & Regression Pass.
 - GG-006-008: Asset-Integration & Demo-Readiness.
-- GG-012-014: Original-Fidelity Reset & Build.
+- GG-012-016: Pivot von Light-Reset zurück zu Dark-Blue Original.

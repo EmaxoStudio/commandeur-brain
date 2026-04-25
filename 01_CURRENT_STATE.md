@@ -3,12 +3,12 @@
 ## Projekt
 Commandeuer Website Rebuild
 
-## Status: DEMO BEREIT (Phase 1 Parität vollständig)
+## Status: DEMO BEREIT (Original-Richtung korrigiert)
 - Statischer Frontend-Stand vollständig aufgebaut und visuell verifiziert.
-- Asset-Integration (Logo, Portrait, Icons) erfolgreich abgeschlossen (GG-006).
-- Finaler Frontend-Feinschliff und Hover-Effekte umgesetzt (GG-007).
-- Demo-Check (GG-008) erfolgreich.
-- Original-Fidelity-Pass (GG-014) abgeschlossen: Website ist durch den Claude-Build und den finalen Review deutlich näher am Original (PASS).
+- **Korrektur abgeschlossen (GG-016)**: Website wurde erfolgreich auf die dunkle/blaue Original-Richtung (Navy, Teal-Akzente, weiße Typo) zurückgeführt.
+- Asset-Integration (Logo, Portrait, Icons) erfolgreich abgeschlossen.
+- Original-Fidelity-Build (GG-016) mit PASS reviewed.
+- Website ist nun exakt in der vom Nutzer im Video gezeigten Stilistik demo-bereit.
 - Keine technischen oder visuellen Demo-Blocker vorhanden.
 
 ## Repositories
@@ -26,5 +26,5 @@ Commandeuer Website Rebuild
 - **Claude**: Nur schwere Fälle / Architektur (Heavy).
 
 ## Nächster Fokus
-- Kundendemo durchführen und Feedback einholen.
+- Kundendemo durchführen und visuellen Abgleich mit dem Kunden finalisieren.
 - Vorbereitung der Livegang-Entscheidungen (Asset-Rechte, Legal-Check, Formular-Backend).

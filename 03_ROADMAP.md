@@ -6,12 +6,11 @@
 - **BLOCK 3**: Lokale Preview & Handy-Vorschau (Done)
 - **BLOCK 4**: Global Header/Footer Sync & Legal Review (Done)
 - **PHASE 1 (Stability)**: Gesamt-Regression (PASS / GG-003-REVIEW)
-- **PHASE 2 (Parity)**: Asset-Integration & Frontend-Feinschliff (Done / GG-006, GG-007)
-- **DEMO READINESS**: Finaler Demo-Check (PASS / GG-008-REVIEW)
-- **FIDELITY PASS**: Original-Fidelity-Build & Review (PASS / GG-014-REVIEW)
+- **PHASE 2 (Fidelity)**: Asset-Integration & Frontend-Korrektur (Done / GG-016-REVIEW)
+- **DEMO READINESS**: Finaler Demo-Check & Korrektur Farbschema (PASS / GG-016-REVIEW)
 
 ## NÄCHSTE SCHRITTE (Priorität 1)
-- **Kundendemo & Feedback**: Präsentation des Stands und Einholen von Korrekturwünschen.
+- **Kundendemo & Feedback**: Präsentation des Stands (Dark/Blue) und Einholen von Korrekturwünschen.
 - **Feedback-Fixrunde**: Gezielte Umsetzung eventueller Kundenwünsche aus der Demo.
 
 ## PHASE 3 (Livegang-Vorbereitung)
