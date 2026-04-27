@@ -1,19 +1,18 @@
 # 03 ROADMAP
 
 ## ABGESCHLOSSEN
-- **BLOCK 1**: Statische Website-Basis (Done)
-- **BLOCK 2**: Formular-UX & Bugfixes (Done)
-- **BLOCK 3**: Lokale Preview & Handy-Vorschau (Done)
-- **BLOCK 4**: Global Header/Footer Sync & Legal Review (Done)
-- **PHASE 1 (Stability)**: Gesamt-Regression (PASS / GG-003-REVIEW)
-- **PHASE 2 (Fidelity)**: Asset-Integration & Frontend-Korrektur (Done / GG-016-REVIEW)
-- **VIDEO FIDELITY**: Video-basierte Detail-Parität (Done / GG-018-REVIEW)
-- **CONTENT ALIGNMENT**: Originaltexte übernommen (Done / GG-021-REVIEW)
-- **DEMO READINESS**: Finaler Demo-Check & Inhalts-Abgleich (PASS / GG-021-REVIEW)
+- **BLOCK 1-4**: Statische Website-Basis & Global Sync (Done)
+- **PHASE 1 (Stability)**: Gesamt-Regression (PASS)
+- **PHASE 2 (Fidelity)**: Asset-Integration & Asset-Korrekturen (Done)
+- **VIDEO FIDELITY**: Video-basierte Detail-Parität (Done)
+- **CONTENT ALIGNMENT**: Originaltexte vollständig übernommen (Done / GG-021)
+- **LAYOUT-PARITÄT**: Seitenweise Überarbeitung nach Gap-Log (Done / GG-024-GG-028)
+- **MOTION & EFFECTS**: 3D-Geometrie & Scroll-Reveal inkl. Fallback-Fix (Done / GG-029-FIX)
 
 ## NÄCHSTE SCHRITTE (Priorität 1)
-- **Visueller Abgleich / Kundendemo**: Letzte Abnahme der Text- und Bildwelten.
-- **Feedback-Fixrunde**: Gezielte Umsetzung eventueller Kundenwünsche aus der Demo.
+- **Visueller Live-Check / Kundendemo**: Letzte Abnahme (Screenshot-/Videovergleich).
+- **Feedback-Fixrunde**: Umsetzung von Kundenwünschen aus der Demo.
+- **Livegang-Vorbereitung**: Asset-Rechte, Legal-Check, Hosting-Setup.
 
 ## PHASE 3 (Livegang-Vorbereitung)
 - **Asset-Rechte**: Finale Bestätigung der Nutzungsrechte für Logo/Bilder.
@@ -23,4 +22,4 @@
 
 ## OPTIONAL / SPÄTER
 - **CMS / Admin**: Falls nachträgliche Editierbarkeit gewünscht ist.
-- **Erweiterte Animationen**: Scroll-Reveal oder komplexe Micro-Interactions.
+- **Backend-Integration**: Echtes Formular-Handling / FriendlyCaptcha.

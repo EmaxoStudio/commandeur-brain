@@ -3,12 +3,11 @@
 ## Projekt
 Commandeuer Website Rebuild
 
-## Status: DEMO BEREIT (Text-Parität vollständig)
-- Statischer Frontend-Stand vollständig aufgebaut und visuell verifiziert.
-- **Text-Parität abgeschlossen (GG-021)**: Alle Originaltexte aus der Referenz (docs/original-content.md) wurden in die Website übernommen.
-- **Video-Fidelity (GG-018)**: Markante Original-Details (Hero-Polygon, Corporate-Gradients, Teal-Hover-Glow) erfolgreich integriert.
-- Asset-Integration (Logo, Portrait, Icons) erfolgreich abgeschlossen.
-- Website ist nun sowohl visuell (Layout/Effekte) als auch inhaltlich (Texte) exakt am Original ausgerichtet.
+## Status: LAYOUT & MOTION FINALISIERT (1:1 Original-Richtung)
+- **Layout-Blöcke (GG-024 bis GG-028)**: Alle Unterseiten (Startseite, Leistungen, Recruiting, Über-uns, Kontakt) wurden seitenweise nach Gap-Log (GG-023) überarbeitet und statisch 1:1 ans Original gebracht (Review PASS).
+- **Motion & Effekte (GG-029/FIX)**: 3D-/Hero-Geometrie und Scroll-Reveal-Effekte sind implementiert. Kritischer No-JS/IntersectionObserver-Fallback ist behoben (Review PASS).
+- **Text-Parität**: Vollständig (aus GG-021).
+- **Visueller Stand**: Website entspricht jetzt in Layout, Inhalten und Animationen der Zielvorgabe.
 - Keine technischen oder visuellen Demo-Blocker vorhanden.
 
 ## Repositories
@@ -26,5 +25,6 @@ Commandeuer Website Rebuild
 - **Claude**: Nur schwere Fälle / Architektur (Heavy).
 
 ## Nächster Fokus
-- Visueller Live-/Screenshot-Abgleich oder Kundendemo durchführen.
-- Vorbereitung der Livegang-Entscheidungen (Asset-Rechte, Legal-Check, Formular-Backend).
+- Visueller Live-Check / Kundendemo / Screenshotvergleich auf echter Demo.
+- Feedback-Fixrunde basierend auf Kundenrückmeldung.
+- Vorbereitung der Livegang-Entscheidungen (Asset-Rechte, Legal-Check, Hosting-Setup).
